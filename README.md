@@ -12,5 +12,8 @@ And no validation has been written for the registration section.
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/116202175/232249394-a2b4f814-d61a-4bb2-84cd-164e45bc393a.png)
 
+![Screenshot (29)](https://user-images.githubusercontent.com/116202175/232303405-1c5a9203-7867-48b1-83d0-28c87badeb76.png)
+
+
 
 
